@@ -1,0 +1,13 @@
+pandas
+spacy
+scikit-learn
+matplotlib
+seaborn
+textblob
+textblob-fr
+googletrans==3.1.0a0
+gensim
+keras
+tensorflow
+transformers
+openTSNE
